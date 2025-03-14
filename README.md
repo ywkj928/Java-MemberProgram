@@ -19,6 +19,22 @@
 ### 6. MemberService.java
 회원 관리 서비스를 제공하는 클래스입니다. 사용자 입력을 처리하고, 회원 등록, 조회, 수정, 삭제 및 목록 출력 기능을 담당합니다.
 
+src/
+├── com/
+│   └── member/
+│       ├── controller/
+│       │   ├── ManagerMember.java
+│       │   ├── MemberManagement.java
+│       │   └── MemberManager.java
+│       ├── domain/
+│       │   └── Member.java
+│       ├── main/
+│       │   └── Main.java
+│       └── service/
+│           └── MemberService.java
+└── memberList.txt
+
+
 ## 사용 방법
 1. **환경 설정**: Java JDK가 설치되어 있어야 합니다.
 2. **소스 코드 컴파일**: `src` 디렉토리에서 Java 파일을 컴파일합니다.
