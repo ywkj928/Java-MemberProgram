@@ -20,7 +20,7 @@
 ## 파일 구조
 ![Roadmap](roadmap.jpg)
 
-## 1. 소스 디렉토리 (src/)
+## 소스 디렉토리 (src/)
 - **com/**: 기본 패키지
   - **member/**: 회원 관련 기능
     - **controller/**: 회원 관리 로직
