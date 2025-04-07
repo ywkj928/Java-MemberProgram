@@ -18,7 +18,7 @@
 7. 관리자 인증
 
 ## 파일 구조
-![Roadmap](roadmap.jpg
+![Roadmap](roadmap.jpg)
 
 ## 소스 디렉토리 (src/)
 - **com/**: 기본 패키지
