@@ -35,20 +35,6 @@
       - `MemberService.java`: 회원 관련 서비스 로직
 - `memberList.txt`: 회원 목록 데이터 파일
 
-src/
-└── com/
-    └── member/
-        ├── controller/
-        │   ├── ManagerMember.java
-        │   └── MemberManagement.java
-        ├── domain/
-        │   └── Member.java
-        ├── main/
-        │   └── Main.java
-        └── service/
-            └── MemberService.java
-memberList.txt
-
 
 
 ## 클래스 설명
